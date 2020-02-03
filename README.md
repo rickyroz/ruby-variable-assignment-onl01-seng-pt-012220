@@ -1,5 +1,4 @@
-# Variable Assignment
-
+# Variable Assignment 
 ## Objectives
 
 1. Assign a local variable.
@@ -30,7 +29,7 @@ Finished in 0.00075 seconds (files took 0.0839 seconds to load)
 To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
 
 ## Resources
-* [Learn to Program](https://pine.fm/LearnToProgram/chap_03.html)
+* [Learn to Prograchap_03.m](hthtmltps://pine.fm/LearnToProgram/)
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-variable-assignment' title='Variable Assignment'>Variable Assignment</a> on Learn.co and start learning to code for free.</p>

@@ -1,4 +1,4 @@
-tags:
+greeting = "Hello World"
   - variable assignment
   - variables
 languages:
